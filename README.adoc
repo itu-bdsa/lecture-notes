@@ -1,0 +1,259 @@
+https://creativecommons.org/licenses/by-nc-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg[License:
+CC BY-NC-SA 4.0]]
+
+image:https://github.com/itu-bdsa/lecture-notes/blob/main/images/banner.png?raw=true[image]
+
+== Analysis, Design and Software Architecture
+
+
+=== Content
+
+
+This page contains information on the schedule, material, exam, etc. for the BSc course "Analysis, Design and Software Architecture" at IT University of Copenhagen, fall 2022 (link:https://learnit.itu.dk/local/coursebase/view.php?ciid=995[Course description on LearnIT]).
+
+
+=== Schedule
+
+Lectures are on Tuesdays from 10:00 to 12:00 in Auditorium 0 (0A27) and on Fridays from 10:00 to 12:00 in Auditorium 0 (0A27).
+Exercise sessions are scheduled on Tuesdays 12:00 to 14:00 in rooms 3A12-14 and 4A14-16 and an extra session on Wednesdays 16:00 to 18:00 in rooms 2A12-14 and 4A14-16.
+
+*OBS*: We expect you to be present during lectures and exercise sessions.
+
+.Course schedule *Note*: While times are locked, the topics are subject to change.
+[width="100%",cols="4%,4%,4%,30%,30%,28%",options="header",]
+|=======================================================================
+|Week |Date |Lecturer |Preparation |Topic |Exercises
+// Wednesday
+.2+^.^|35
+|30/8/22
+|Helge
+| OFJ ch. 15
+| Course Intro
+.2+^.^| link:assignments/assignment_00/README.md[Assignment 0]
+// Friday
+|2/9/22
+|Rasmus
+|
+|C# 01 - Test-Driven C#
+
+// Wednesday
+.2+^.^|36
+|6/9/22
+|Helge
+a| * SE ch. 1
+   * APPP Appendix B
+// * link:https://codewords.recurse.com/issues/two/git-from-the-inside-out[Git from the inside out]
+|What is software? What is software engineering? What is software design? What is software architecture?
+// SW Eng - Git, How does it work?
+.2+^.^| link:assignments/assignment_01/README.md[Assignment 1]
+// Friday
+|9/9/22
+|Rasmus
+|CSN ch. 3, 4, 7, 25
+|C# 02 - Generics, Collections, Iterators, and Regular Expressions
+
+// Wednesday
+.2+^.^|37
+|13/9/22
+|Helge
+|SE ch. 4
+|SW Eng - Requirements Engineering
+.2+^.^| link:assignments/assignment_02/README.md[Assignment 2]
+// Friday
+|16/9/22
+|Rasmus
+|CSN ch. 4, 8, 9
+|C# 03 - Lambdas and LINQ
+
+// Wednesday
+.2+^.^|38
+|20/9/22
+|Helge
+a|* SE ch. 5 p.138 - 158
+  * APPP ch. 13 - 19
+|SW Eng - Introduction to UML
+.2+^.^| link:assignments/assignment_03/README.md[Assignment 3]
+// Friday
+|23/9/22
+|Rasmus
+|CSN ch. 8
+|C# 04 - Data Access and Entity Framework Core
+
+// Wednesday
+.2+^.^|39
+|27/9/22
+|Helge
+|APPP ch. 8 - 12
+|SW Eng - SOLID Principles
+.2+^.^| link:assignments/assignment_04/README.md[Assignment 4]
+// Friday
+|30/9/22
+|Rasmus
+|
+|C# 05 - Dependency Injection and Testing Entity Framework
+
+// Wednesday
+.2+^.^|40
+|4/10/22
+|Helge
+|
+|SW Eng - Design patterns
+.2+^.^| link:assignments/assignment_05/README.md[Assignment 5]
+// Friday
+|7/10/22
+|Rasmus
+|CSN ch. 14, 22
+|C# 06 - Asynchronous and Parallel Programming
+
+// Wednesday
+.2+^.^|41
+|11/10/22
+|Helge
+|
+|SW Eng - Architectural Patterns
+.2+^.^| Project grouping
+// Friday
+|14/10/22
+|Rasmus
+|CSN ch. 16
+|C# 07 - REST and ASP.NET Core
+
+// Wednesday
+^|42
+5+|Fall break
+
+
+
+// Wednesday
+.2+^.^|43
+|25/10/22
+|Helge
+a|* SE ch. 8
+* APPP ch. 2 - (5)
+|SW Eng - Test-driven and behavior-driven development
+|
+// Friday
+|28/10/22
+|Rasmus
+|
+|C# 08 - ASP.NET Core Web API part deux
+|
+
+// Wednesday
+.2+^.^|44
+|1/11/22
+|Helge
+|
+|SW Eng - Building Software
+.2+^.^| Trial Exam
+// Friday
+|4/11/22
+|Rasmus
+|
+|C# 09 - Web applications with C#
+
+// Wednesday
+.2+^.^|45
+|8/11/22
+|Helge
+|SE ch. 24
+|SW Eng - Software Quality
+|
+// Friday
+|11/11/22
+|Rasmus
+|
+|C# 10 - Mobile and Desktop Applications with C#
+|
+
+// Wednesday
+.2+^.^|46
+|15/11/22
+|Helge
+a|* APPP ch. 30
+|SW Eng - Package and Component Design
+|
+// Friday
+|18/11/22
+|Rasmus
+|
+|C# 11 - Security
+|
+
+// Wednesday
+.2+^.^|47
+|22/11/22
+|Helge
+|SE ch. 2 - 3
+|SW Eng - Software process models
+|
+// Friday
+|25/11/22
+|Rasmus
+|
+|C# 12 - this._course.Dispose();
+|
+
+// Wednesday
+.2+^.^|48
+|29/11/22
+|Helge
+|
+|
+|
+// Friday
+|2/12/22
+|Rasmus
+|
+|
+|
+
+// Wednesday
+.2+^.^|49
+|6/12/22
+|Helge
+|
+|Q&A
+.2+^.^|Project demo
+// Friday
+|9/12/22
+|Rasmus
+|
+|
+
+|=======================================================================
+
+* Exam date: Mon 9/1/2023 09:00 - 13:00 (on premises)
+
+=== TA Supervision
+
+TBA
+
+=== Recordings
+
+This is not a distance course.
+This term, we will not record the lectures.
+You will have access to all written lecture material through this repository though.
+
+
+=== Team
+
+* *Teachers*: Helge, Rasmus
+* *TAs*: Emily, Gustav, Mikkel, Mille, and Tamara
+
+=== Communication
+
+Outside teaching sessions you can communicate with each other and with the TAs via the link:[the course's Discord channels].
+
+
+=== Books
+
+  * OFJ: link:https://www.bluej.org/objects-first/[Objects First with Java: A Practical Introduction Using BlueJ (Sixth Edition)]
+  * SE: link:https://www.polyteknisk.dk/home/Detaljer/9781292096131[Software Engineering (Tenth Edition, Global Edition)]
+  * APPP: link:https://www.polyteknisk.dk/home/Detaljer/9780131857254[Agile Principles, Patterns, and Practices in C#]
+  * CSN: link:https://www.oreilly.com/library/view/c-10-in/9781098121945/[C# 10 in a Nutshell]
+
+
+===== Attributions
+
+Icon in banner is from https://www.flaticon.com/free-icons/architecture[Architecture icons created by Freepik - Flaticon]
