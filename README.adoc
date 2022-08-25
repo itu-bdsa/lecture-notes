@@ -28,7 +28,7 @@ Exercise sessions are scheduled on Tuesdays 12:00 to 14:00 in rooms 3A12-14 and 
 |30/8/22
 |Helge
 | OFJ ch. 15
-| Course Intro
+| link:sessions/swe_01/README.md/[Course Intro]
 .2+^.^| link:assignments/assignment_00/README.md[Assignment 0]
 // Friday
 |2/9/22
@@ -42,7 +42,7 @@ Exercise sessions are scheduled on Tuesdays 12:00 to 14:00 in rooms 3A12-14 and 
 |Helge
 a| * SE ch. 1
    * APPP Appendix B
-// * link:https://codewords.recurse.com/issues/two/git-from-the-inside-out[Git from the inside out]
+   * link:https://codewords.recurse.com/issues/two/git-from-the-inside-out[Git from the inside out]
 |What is software? What is software engineering? What is software design? What is software architecture?
 // SW Eng - Git, How does it work?
 .2+^.^| link:assignments/assignment_01/README.md[Assignment 1]
@@ -225,6 +225,27 @@ a|* APPP ch. 30
 
 * Exam date: Mon 9/1/2023 09:00 - 13:00 (on premises)
 
+=== Assignments
+
+For all the assignments listed above holds the following:
+
+* Each assignment is handed out on Friday 12:00 in the week they are listed.
+* They have to be handed in latest the following Friday before 10:00 via LearnIT.
+**  9/9  12:00  Hand-out: Assignment 1
+** 16/9  10:00  Hand-in:  Assignment 1
+** 16/9  12:00  Hand-out: Assignment 2
+** 23/9  10:00  Hand-in:  Assignment 2
+** 23/9  12:00  Hand-out: Assignment 3
+** 30/9  10:00  Hand-in:  Assignment 3
+** 30/9  12:00  Hand-out: Assignment 4
+**  7/10 10:00  Hand-in:  Assignment 4
+**  7/10 12:00  Hand-out: Assignment 5
+** 14/10 10:00  Hand-in:  Assignment 5
+* The five assignments, assignment 1 to assignment 5 are *mandatory*. That is, without their acceptance, you are not eligible to participate in the exam.
+
+
+
+
 === TA Supervision
 
 TBA
@@ -240,10 +261,6 @@ You will have access to all written lecture material through this repository tho
 
 * *Teachers*: Helge, Rasmus
 * *TAs*: Emily, Gustav, Mikkel, Mille, and Tamara
-
-=== Communication
-
-Outside teaching sessions you can communicate with each other and with the TAs via the link:[the course's Discord channels].
 
 
 === Books
