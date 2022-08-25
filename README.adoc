@@ -19,7 +19,7 @@ Exercise sessions are scheduled on Tuesdays 12:00 to 14:00 in rooms 3A12-14 and 
 
 *OBS*: We expect you to be present during lectures and exercise sessions.
 
-.Course schedule *Note*: While times are locked, the topics are subject to change.
+.Course schedule *Note*: While times are locked, the topics are subject to change. Note, not all links are active yet. They will be populated continuously.
 [width="100%",cols="4%,4%,4%,30%,30%,28%",options="header",]
 |=======================================================================
 |Week |Date |Lecturer |Preparation |Topic |Exercises
