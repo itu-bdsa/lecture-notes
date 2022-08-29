@@ -23,12 +23,12 @@ Exercise sessions are scheduled on Tuesdays 12:00 to 14:00 in rooms 3A12-14 and 
 [width="100%",cols="4%,4%,4%,30%,30%,28%",options="header",]
 |=======================================================================
 |Week |Date |Lecturer |Preparation |Topic |Exercises
-// Wednesday
+// Tuesday
 .2+^.^|35
 |30/8/22
 |Helge
 | OFJ ch. 15
-| link:sessions/swe_00/README.md/[Course Intro]
+| link:sessions/swe_01/README.md/[Course Intro]
 .2+^.^| link:assignments/assignment_00/README.md[Assignment 0]
 // Friday
 |2/9/22
@@ -36,7 +36,7 @@ Exercise sessions are scheduled on Tuesdays 12:00 to 14:00 in rooms 3A12-14 and 
 |
 |C# 01 - Test-Driven C#
 
-// Wednesday
+// Tuesday
 .2+^.^|36
 |6/9/22
 |Helge
@@ -52,7 +52,7 @@ a| * SE ch. 1
 |CSN ch. 3, 4, 7, 25
 |C# 02 - Generics, Collections, Iterators, and Regular Expressions
 
-// Wednesday
+// Tuesday
 .2+^.^|37
 |13/9/22
 |Helge
@@ -65,7 +65,7 @@ a| * SE ch. 1
 |CSN ch. 4, 8, 9
 |C# 03 - Lambdas and LINQ
 
-// Wednesday
+// Tuesday
 .2+^.^|38
 |20/9/22
 |Helge
@@ -79,7 +79,7 @@ a|* SE ch. 5 p.138 - 158
 |CSN ch. 8
 |C# 04 - Data Access and Entity Framework Core
 
-// Wednesday
+// Tuesday
 .2+^.^|39
 |27/9/22
 |Helge
@@ -92,7 +92,7 @@ a|* SE ch. 5 p.138 - 158
 |
 |C# 05 - Dependency Injection and Testing Entity Framework
 
-// Wednesday
+// Tuesday
 .2+^.^|40
 |4/10/22
 |Helge
@@ -105,7 +105,7 @@ a|* SE ch. 5 p.138 - 158
 |CSN ch. 14, 22
 |C# 06 - Asynchronous and Parallel Programming
 
-// Wednesday
+// Tuesday
 .2+^.^|41
 |11/10/22
 |Helge
@@ -118,13 +118,13 @@ a|* SE ch. 5 p.138 - 158
 |CSN ch. 16
 |C# 07 - REST and ASP.NET Core
 
-// Wednesday
+// Tuesday
 ^|42
 5+|Fall break
 
 
 
-// Wednesday
+// Tuesday
 .2+^.^|43
 |25/10/22
 |Helge
@@ -139,7 +139,7 @@ a|* SE ch. 8
 |C# 08 - ASP.NET Core Web API part deux
 |
 
-// Wednesday
+// Tuesday
 .2+^.^|44
 |1/11/22
 |Helge
@@ -152,7 +152,7 @@ a|* SE ch. 8
 |
 |C# 09 - Web applications with C#
 
-// Wednesday
+// Tuesday
 .2+^.^|45
 |8/11/22
 |Helge
@@ -166,7 +166,7 @@ a|* SE ch. 8
 |C# 10 - Mobile and Desktop Applications with C#
 |
 
-// Wednesday
+// Tuesday
 .2+^.^|46
 |15/11/22
 |Helge
@@ -180,7 +180,7 @@ a|* APPP ch. 30
 |C# 11 - Security
 |
 
-// Wednesday
+// Tuesday
 .2+^.^|47
 |22/11/22
 |Helge
@@ -194,7 +194,7 @@ a|* APPP ch. 30
 |C# 12 - this._course.Dispose();
 |
 
-// Wednesday
+// Tuesday
 .2+^.^|48
 |29/11/22
 |Helge
@@ -208,7 +208,7 @@ a|* APPP ch. 30
 |
 |
 
-// Wednesday
+// Tuesday
 .2+^.^|49
 |6/12/22
 |Helge
