@@ -28,7 +28,7 @@ Exercise sessions are scheduled on Tuesdays 12:00 to 14:00 in rooms 3A12-14 and 
 |30/8/22
 |Helge
 | OFJ ch. 15
-| link:sessions/swe_01/README.md/[Course Intro]
+| link:sessions/swe_00/README.md/[Course Intro]
 .2+^.^| link:assignments/assignment_00/README.md[Assignment 0]
 // Friday
 |2/9/22
