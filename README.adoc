@@ -23,11 +23,13 @@ Exercise sessions are scheduled on Tuesdays 12:00 to 14:00 in rooms 3A12-14 and 
 [width="100%",cols="4%,4%,4%,30%,30%,28%",options="header",]
 |=======================================================================
 |Week |Date |Lecturer |Preparation |Topic |Exercises
+
 // Tuesday
 .2+^.^|35
 |30/8/22
 |Helge
-| OFJ ch. 15
+a| * OFJ ch. 15
+   * link:sessions/swe_00/README.md/[Preparation Material]
 | link:sessions/swe_01/README.md/[Course Intro]
 .2+^.^| link:assignments/assignment_00/README.md[Assignment 0]
 // Friday
@@ -244,11 +246,13 @@ For all the assignments listed above holds the following:
 * The five assignments, assignment 1 to assignment 5 are *mandatory*. That is, without their acceptance, you are not eligible to participate in the exam.
 
 
-
+* Exercises are assigned to randomly generated triplets, which change every week.
+* The goal of the exercises is to challenge your understanding of the course content covered at a given point, not to grade you.
+* Exercises are tuned to roughly take 6 hours. You are expected to work on the exercises during the exercise classes.
 
 === TA Supervision
 
-TBA
+On Tuesday 30/8/22, TAs will gather in room 3A12-14. You can distribute over all exercise rooms and in case you need help either find them physically or send them a request for help via Discord.
 
 === Recordings
 
