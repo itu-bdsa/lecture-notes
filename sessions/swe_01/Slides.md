@@ -195,7 +195,7 @@ class: center, middle
   * 
   *
   * 
-   
+
 <!--   * Analysis
     - Noun/verb method for class and method identification
     - CRC (class/responsibilities/collaborators) cards with scenarios for analysis
@@ -284,7 +284,7 @@ List of questions about the Coronapas App:
   * Thereafter, create an *ignorance map*. That is, note in a diagram as above everything that you do not know about the Coronapas App with respect to the questions above and with respect to your own questions.
     - While doing so try to figure out and note down where you could find answers to your questions and knowledge to topics that you don't know.
 
-Wednesday at the end of the exercise session take a picture of your posters and send them to me via the Discord channel: 
+Wednesday at the end of the exercise session take a picture of your posters and send them to me via the [LearnIT Hand-in](https://learnit.itu.dk/mod/assign/view.php?id=163238).
 
 ---
 
