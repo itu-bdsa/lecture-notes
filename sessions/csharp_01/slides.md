@@ -31,6 +31,8 @@ ITU
 
 # About Me
 
+![bg right:18%](images/portrait.jpg)
+
 Senior Cloud Solution Architect @ Microsoft
 Associate Professer @ ITU
 Captain/Battalion Chief of Staff @ Danish Army (Reserves)
@@ -70,6 +72,8 @@ You may DM me for personal questions.
 
 # Curriculum
 
+![bg](images/curriculum-bg.jpg)
+
 Test-Driven C♯
 Generics
 Lambdas and Linq
@@ -82,7 +86,7 @@ Web apps
 Security
 Cloud
 
-Current version on <https://github.com/itu-bdsa/lecture-notes>
+Updated version cf. <https://github.com/itu-bdsa/lecture-notes>
 
 ---
 
@@ -375,6 +379,25 @@ Source: <https://docs.microsoft.com/en-us/devops/develop/what-is-continuous-inte
 # Demo
 
 Test-Driven C♯ using Continuous Integration and Trunk Based Development
+
+---
+
+![bg contain](images/thank-you-bg.jpg)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Thank you
 
 ---
 
