@@ -35,7 +35,7 @@ a| * OFJ ch. 15
 // Friday
 |2/9/22
 |Rasmus
-|
+|CSN ch. 1 and 2
 |C# 01 - Test-Driven C#
 
 // Tuesday
