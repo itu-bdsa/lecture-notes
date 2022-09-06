@@ -357,7 +357,6 @@ index.html
 misc/students/courseid_*_participants.csv
 README_LearnIT.html
 sessions/swe_*/Slides.pdf
-sessions/swe_*/Slides.html
 
 tmp/
 misc/communication/*.html
