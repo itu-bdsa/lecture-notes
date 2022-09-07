@@ -701,6 +701,6 @@ Guest lecture/workshop series with
 
   * 13/9 Version Control with Git
   * 20/9 Containerization with Docker
-  * 27/9 Continuous integration with GitHub Actions
+  * 27/9 Container orchestration with Kubernetes
 
 Always from 16:00-20:00 in rooms 4A14-16
