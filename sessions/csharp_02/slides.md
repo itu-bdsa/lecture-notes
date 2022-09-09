@@ -38,9 +38,8 @@ ITU
 
 ![bg right:60%](images/core.jpg)
 
-Built-in
+Collections (Generic)
 Iterators
-Collections
 Create your own?
 Type Constraints
 (Co- and contravariance)
@@ -60,57 +59,6 @@ IList<string> list = new List<string>();
 list.Add("hello");
 var s = list[0];
 ```
-
----
-
-![bg](images/produce-bg.jpg)
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-# Iterators
-
----
-
-<!-- _class: default -->
-
-# Iterators
-
-![bg right:50% contain](images/iterator.png)
-
-- Producer
-- Building block for *LINQ*
-- Enables:
-
-    ```csharp
-    foreach (var item in items)
-    {
-        Console.WriteLine(item.Name);
-    }
-    ```
-
-- Built using:
-
-    ```
-    yield return 42;
-    yield break;
-    ```
-
----
-
-# Iterators
-
-## Demo
 
 ---
 
@@ -166,6 +114,57 @@ var s = list[0];
 ---
 
 # Generic Collections
+
+## Demo
+
+---
+
+![bg](images/produce-bg.jpg)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Iterators
+
+---
+
+<!-- _class: default -->
+
+# Iterators
+
+![bg right:50% contain](images/iterator.png)
+
+- Producer
+- Building block for *LINQ*
+- Enables:
+
+    ```csharp
+    foreach (var item in items)
+    {
+        Console.WriteLine(item.Name);
+    }
+    ```
+
+- Built using:
+
+    ```
+    yield return 42;
+    yield break;
+    ```
+
+---
+
+# Iterators
 
 ## Demo
 
