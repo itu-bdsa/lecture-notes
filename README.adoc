@@ -68,16 +68,16 @@ a| * SE ch. 1
 // Tuesday
 .2+^.^|38
 |20/9/22
+|Rasmus
+|CSN ch. 8
+|C# 04 - Data Access and Entity Framework Core
+.2+^.^| link:https://github.com/itu-bdsa/assignment-03/blob/main/README.md[Assignment 3]
+// Friday
+|23/9/22
 |Helge
 a|* SE ch. 5 p.138 - 158
   * APPP ch. 13 - 19
 |SW Eng - Introduction to UML
-.2+^.^| link:https://github.com/itu-bdsa/assignment-03/blob/main/README.md[Assignment 3]
-// Friday
-|23/9/22
-|Rasmus
-|CSN ch. 8
-|C# 04 - Data Access and Entity Framework Core
 
 // Tuesday
 .2+^.^|39
