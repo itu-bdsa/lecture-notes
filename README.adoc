@@ -44,7 +44,7 @@ a| * OFJ ch. 15
 a| * SE ch. 1
    * APPP Appendix B
    * link:https://codewords.recurse.com/issues/two/git-from-the-inside-out[Git from the inside out]
-|link:sessions/swe_02/Slides.md/[What is software? What is software engineering? What is software design? What is software architecture?]
+|link:sessions/swe_02/Slides.md/[SW Eng - What is software? What is software engineering? What is software design? What is software architecture?]
 .2+^.^| link:https://github.com/itu-bdsa/assignment-01/blob/main/README.md[Assignment 1]
 // Friday
 |9/9/22
@@ -57,7 +57,7 @@ a| * SE ch. 1
 |13/9/22
 |Helge
 |SE ch. 4
-|SW Eng - Requirements Engineering
+|link:sessions/swe_03/Slides.md/[SW Eng - Requirements Engineering]
 .2+^.^| link:https://github.com/itu-bdsa/assignment-02/blob/main/README.md[Assignment 2]
 // Friday
 |16/9/22
