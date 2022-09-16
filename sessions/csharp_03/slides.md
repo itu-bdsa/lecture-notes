@@ -5,6 +5,20 @@ theme: default
 class: invert
 ---
 
+# Survey during the *academic quarter*:
+
+## <https://www.menti.com/> code: `5942 1139`
+
+---
+
+# Questions
+
+- How to setup tests?
+- Testing private methods?
+- How to use fluent assertions?
+
+---
+
 # C♯ 3 - Lambdas and LINQ
 
 ![bg right:50%](images/lambda.png)

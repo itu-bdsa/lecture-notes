@@ -258,12 +258,10 @@ This is not a distance course.
 This term, we will not record the lectures.
 You will have access to all written lecture material through this repository though.
 
-
 === Team
 
 * *Teachers*: Helge, Rasmus
 * *TAs*: Emily, Gustav, Mikkel, Mille, and Tamara
-
 
 === Books
 
@@ -272,7 +270,6 @@ You will have access to all written lecture material through this repository tho
   * APPP: link:https://www.polyteknisk.dk/home/Detaljer/9780131857254[Agile Principles, Patterns, and Practices in C#]
   * CSN: link:https://www.oreilly.com/library/view/c-10-in/9781098121945/[C# 10 in a Nutshell]
 
-
-===== Attributions
+=== Attributions
 
 Icon in banner is from https://www.flaticon.com/free-icons/architecture[Architecture icons created by Freepik - Flaticon]
