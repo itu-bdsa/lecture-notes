@@ -6,6 +6,11 @@ image:https://github.com/itu-bdsa/lecture-notes/blob/main/images/banner.png?raw=
 == Analysis, Design and Software Architecture
 
 
+=== Advertisement
+
+image:images/reklame.png?raw=true[image]
+
+
 === Content
 
 
