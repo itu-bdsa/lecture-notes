@@ -88,7 +88,7 @@ a|* SE ch. 5 p.138 - 158
 .2+^.^|39
 |27/9/22
 |Helge
-|APPP ch. 8 - 12
+|APPP ch. 7 - 12
 |SW Eng - SOLID Principles
 .2+^.^| link:https://github.com/itu-bdsa/assignment-04/blob/main/README.md[Assignment 4]
 // Friday
