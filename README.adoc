@@ -82,7 +82,7 @@ a| * SE ch. 1
 |Helge
 a|* SE ch. 5 p.138 - 158
   * APPP ch. 13 - 19
-|SW Eng - Introduction to UML
+|link:sessions/swe_04/Slides.md/[SW Eng - Introduction to UML]
 
 // Tuesday
 .2+^.^|39
