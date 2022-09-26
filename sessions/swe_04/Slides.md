@@ -578,7 +578,7 @@ The diagram shows:
 
 ### Quiz
 
-Why would one change the simple class structure to the left into the more difficult ine to the right?
+Why would one change the simple class structure to the left into the more difficult one to the right?
 
 <table>
     <tr>
