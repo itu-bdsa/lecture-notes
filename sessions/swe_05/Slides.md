@@ -467,7 +467,7 @@ Source: <a href="https://blog.jetbrains.com/upsource/2015/08/31/what-to-look-for
 
 ### OCP: Quiz
 
-Can one design software to always adhere to the open-source principle?
+Can one design software to always adhere to the open/closed principle?
 
 --
 
