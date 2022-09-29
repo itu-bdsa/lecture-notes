@@ -6,11 +6,6 @@ image:https://github.com/itu-bdsa/lecture-notes/blob/main/images/banner.png?raw=
 == Analysis, Design and Software Architecture
 
 
-=== Advertisement
-
-image:images/reklame.png?raw=true[image]
-
-
 === Content
 
 
@@ -89,7 +84,7 @@ a|* SE ch. 5 p.138 - 158
 |27/9/22
 |Helge
 |APPP ch. 7 - 12
-|SW Eng - SOLID Principles
+|link:sessions/swe_05/Slides.md/[SW Eng - SOLID Principles]
 .2+^.^| link:https://github.com/itu-bdsa/assignment-04/blob/main/README.md[Assignment 4]
 // Friday
 |30/9/22
@@ -101,7 +96,8 @@ a|* SE ch. 5 p.138 - 158
 .2+^.^|40
 |4/10/22
 |Helge
-|
+|* SE ch. 6
+* APPP ch. 21 - 25
 |SW Eng - Design patterns
 .2+^.^| link:https://github.com/itu-bdsa/assignment-05/blob/main/README.md[Assignment 5]
 // Friday
@@ -114,7 +110,7 @@ a|* SE ch. 5 p.138 - 158
 .2+^.^|41
 |11/10/22
 |Helge
-|
+|SE ch. 6
 |SW Eng - Architectural Patterns
 .2+^.^| Project grouping
 // Friday
