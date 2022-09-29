@@ -96,7 +96,7 @@ a|* SE ch. 5 p.138 - 158
 .2+^.^|40
 |4/10/22
 |Helge
-|* SE ch. 6
+a|* SE ch. 6
 * APPP ch. 21 - 25
 |SW Eng - Design patterns
 .2+^.^| link:https://github.com/itu-bdsa/assignment-05/blob/main/README.md[Assignment 5]
