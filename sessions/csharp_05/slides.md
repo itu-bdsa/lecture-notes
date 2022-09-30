@@ -15,6 +15,13 @@ ITU
 
 ---
 
+# Assignment feedback
+
+- How was it?
+- Testing?
+
+---
+
 ![bg](https://miro.medium.com/max/1400/1*wgpae8kWxzQPG0XBAzUWYw.jpeg)
 
 <br>
@@ -233,6 +240,7 @@ public class Baz : IServiceSetter<IFooService>
 - Use constructor injection
 - Program to interface
 - Use an IoC container (more on that later)
+- If you're injection more than 1-2-3 dependencies - you're doing it wrong!
 
 ---
 
@@ -273,9 +281,11 @@ using var context = new MyContext(builder.Options);
 
 # Integration testing
 
-- Most test against a real database eventually
+- You must test against a real database eventually
 - More on this later in the course
 
 ---
+
+![bg right:60% contain](images/applause.png)
 
 # Thank you
