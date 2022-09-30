@@ -89,7 +89,8 @@ a|* SE ch. 5 p.138 - 158
 // Friday
 |30/9/22
 |Rasmus
-|
+a|* link:https://martinfowler.com/articles/injection.html[Inversion of Control Containers and the Dependency Injection pattern]
+  * link:https://docs.microsoft.com/en-us/ef/core/miscellaneous/testing/[Testing code that uses EF Core] 
 |C# 05 - Dependency Injection and Testing Entity Framework
 
 // Tuesday
