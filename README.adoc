@@ -95,7 +95,7 @@ a| * SE ch. 5 p.138 - 158
 |Rasmus
 a| * link:https://martinfowler.com/articles/injection.html[Inversion of Control Containers and the Dependency Injection pattern]
    * link:https://learn.microsoft.com/en-us/ef/core/testing/[Testing EF Core Applications]
-|link:sessions/csharp_05/Slides.md[C♯ 05: Dependency Injection and Testing Framework Core]
+|link:sessions/csharp_05/slides.md[C♯ 05: Dependency Injection and Testing Framework Core]
 
 // Tuesday
 .2+^.^|40
@@ -111,7 +111,8 @@ a| * SE ch. 6
 a| * CSN ch. 14, 22
    * link:https://github.com/NotMyself/GildedRose/blob/master/README.md[Gilded Rose Refactoring Kata]
    * link:https://martinfowler.com/articles/preparatory-refactoring-example.html[An example of preparatory refactoring]
-|link:sessions/csharp_06/Slides.md[C♯ 06: Asynchronous and Parallel Programming]
+a| * link:sessions/csharp_06/slides.md[C♯ 06: Asynchronous and Parallel Programming]
+   * link:sessions/the_gilded_rose/slides.md[C♯ 06: Asynchronous and Parallel Programming]
 
 // Tuesday
 .2+^.^|41
