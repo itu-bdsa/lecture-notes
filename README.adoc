@@ -123,14 +123,14 @@ a| * CSN ch. 14, 22
 // Friday
 |14/10/22
 |Rasmus
-a | * CSN ch. 16
-    * link:https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm[CHAPTER 5 - Representational State Transfer (REST)]
-    * link:https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api[Tutorial: Create a web API with ASP.NET Core]
-    * link:https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api[Tutorial: Create a web API with ASP.NET Core]
-    * link:https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/testing[Unit test controller logic in ASP.NET Core]
-    * link:https://learn.microsoft.com/en-us/aspnet/core/test/middleware[Test ASP.NET Core middleware]
-    * link:https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests[Integration tests in ASP.NET Core]
-    * link:https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/test-aspnet-core-services-web-apps[Testing ASP.NET Core services and web apps]
+a| * CSN ch. 16
+   * link:https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm[CHAPTER 5 - Representational State Transfer (REST)]
+   * link:https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api[Tutorial: Create a web API with ASP.NET Core]
+   * link:https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api[Tutorial: Create a web API with ASP.NET Core]
+   * link:https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/testing[Unit test controller logic in ASP.NET Core]
+   * link:https://learn.microsoft.com/en-us/aspnet/core/test/middleware[Test ASP.NET Core middleware]
+   * link:https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests[Integration tests in ASP.NET Core]
+   * link:https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/test-aspnet-core-services-web-apps[Testing ASP.NET Core services and web apps]
 |C♯ 07: REST and ASP.NET Core
 
 // Tuesday
@@ -162,9 +162,9 @@ a| * SE ch. 8
 // Friday
 |4/11/22
 |Rasmus
-a | * link:https://learn.microsoft.com/en-us/aspnet/core/mvc/overview[Overview of ASP.NET Core MVC]
-    * link:https://learn.microsoft.com/en-us/aspnet/core/blazor/[ASP.NET Core Blazor]
-    * link:https://learn.microsoft.com/en-us/shows/beginners-series-to-blazor/[Beginner's Series to: Blazor]
+a| * link:https://learn.microsoft.com/en-us/aspnet/core/mvc/overview[Overview of ASP.NET Core MVC]
+   * link:https://learn.microsoft.com/en-us/aspnet/core/blazor/[ASP.NET Core Blazor]
+   * link:https://learn.microsoft.com/en-us/shows/beginners-series-to-blazor/[Beginner's Series to: Blazor]
 |C♯ 09: Web applications with C♯
 
 // Tuesday
@@ -177,9 +177,9 @@ a | * link:https://learn.microsoft.com/en-us/aspnet/core/mvc/overview[Overview o
 // Friday
 |11/11/22
 |Rasmus
-a | * link:https://learn.microsoft.com/en-us/dotnet/desktop/wpf[Windows Presentation Foundation documentation]
-    * link:https://learn.microsoft.com/en-us/dotnet/desktop/winforms/[Windows Forms documentation]
-    * link:https://learn.microsoft.com/en-us/dotnet/maui/[.NET Multi-platform App UI documentation]
+a| * link:https://learn.microsoft.com/en-us/dotnet/desktop/wpf[Windows Presentation Foundation documentation]
+   * link:https://learn.microsoft.com/en-us/dotnet/desktop/winforms/[Windows Forms documentation]
+   * link:https://learn.microsoft.com/en-us/dotnet/maui/[.NET Multi-platform App UI documentation]
 |C♯ 10: Mobile and Desktop Applications with C♯
 |
 
@@ -193,9 +193,9 @@ a|* APPP ch. 30
 // Friday
 |18/11/22
 |Rasmus
-a | * link:https://learn.microsoft.com/en-us/aspnet/core/security/[ASP.NET Core security topics]
-    * link:https://learn.microsoft.com/en-us/aspnet/core/blazor/security/[ASP.NET Core Blazor authentication and authorization]
-    * link:https://learn.microsoft.com/en-us/azure/active-directory-b2c/[Azure Active Directory B2C documentation]
+a| * link:https://learn.microsoft.com/en-us/aspnet/core/security/[ASP.NET Core security topics]
+   * link:https://learn.microsoft.com/en-us/aspnet/core/blazor/security/[ASP.NET Core Blazor authentication and authorization]
+   * link:https://learn.microsoft.com/en-us/azure/active-directory-b2c/[Azure Active Directory B2C documentation]
 |C♯ 11: Security
 |
 
