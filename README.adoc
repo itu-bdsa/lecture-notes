@@ -49,8 +49,10 @@ a| * SE ch. 1
 // Friday
 |9/9/22
 |Rasmus
-|CSN ch. 3, 4, 7, 25 link:https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test[Unit testing C♯ in .NET Core using dotnet test and xUnit] link:https://learn.microsoft.com/en-us/dotnet/devops/github-actions-overview[GitHub Actions and .NET]
-|link:sessions/csharp_01/slides.md[C♯ 02: Generics, Collections, Iterators, and ]Regular Expressions
+| * CSN ch. 3, 4, 7, 25
+  * link:https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test[Unit testing C♯ in .NET Core using dotnet test and xUnit]
+  * link:https://learn.microsoft.com/en-us/dotnet/devops/github-actions-overview[GitHub Actions and .NET]
+|link:sessions/csharp_01/slides.md[C♯ 02: Generics, Collections, Iterators, and Regular Expressions]
 
 // Tuesday
 .2+^.^|37
@@ -69,14 +71,16 @@ a| * SE ch. 1
 .2+^.^|38
 |20/9/22
 |Rasmus
-|CSN ch. 8 link:https://learn.microsoft.com/en-us/ef/core/[Entity Framework Core] link:https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app[Getting Started with EF Core]
+| * CSN ch. 8
+  * link:https://learn.microsoft.com/en-us/ef/core/[Entity Framework Core]
+  * link:https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app[Getting Started with EF Core]
 |link:sessions/csharp_04/slides.md[C♯ 04: Data Access and Entity Framework Core]
 .2+^.^| link:https://github.com/itu-bdsa/assignment-03/blob/main/README.md[Assignment 3]
 // Friday
 |23/9/22
 |Helge
-a|* SE ch. 5 p.138 - 158
-  * APPP ch. 13 - 19
+a| * SE ch. 5 p.138 - 158
+   * APPP ch. 13 - 19
 |link:sessions/swe_04/Slides.md[SW Eng - Introduction to UML]
 
 // Tuesday
@@ -105,7 +109,9 @@ a|* SE ch. 6
 // Friday
 |7/10/22
 |Rasmus
-|CSN ch. 14, 22 link:https://github.com/NotMyself/GildedRose/blob/master/README.md[Gilded Rose Refactoring Kata] link:https://martinfowler.com/articles/preparatory-refactoring-example.html[An example of preparatory refactoring]
+| * CSN ch. 14, 22
+  * link:https://github.com/NotMyself/GildedRose/blob/master/README.md[Gilded Rose Refactoring Kata]
+  * link:https://martinfowler.com/articles/preparatory-refactoring-example.html[An example of preparatory refactoring]
 |C♯ 06: Asynchronous and Parallel Programming
 
 // Tuesday
@@ -118,7 +124,14 @@ a|* SE ch. 6
 // Friday
 |14/10/22
 |Rasmus
-|CSN ch. 16 link:https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm[CHAPTER 5 - Representational State Transfer (REST)] link:https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api[Tutorial: Create a web API with ASP.NET Core] link:https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api[Tutorial: Create a web API with ASP.NET Core] link:https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/testing[Unit test controller logic in ASP.NET Core] link:https://learn.microsoft.com/en-us/aspnet/core/test/middleware[Test ASP.NET Core middleware] link:https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests[Integration tests in ASP.NET Core] link:https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/test-aspnet-core-services-web-apps[Testing ASP.NET Core services and web apps]
+| * CSN ch. 16
+  * link:https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm[CHAPTER 5 - Representational State Transfer (REST)]
+  * link:https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api[Tutorial: Create a web API with ASP.NET Core]
+  * link:https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api[Tutorial: Create a web API with ASP.NET Core]
+  * link:https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/testing[Unit test controller logic in ASP.NET Core]
+  * link:https://learn.microsoft.com/en-us/aspnet/core/test/middleware[Test ASP.NET Core middleware]
+  * link:https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests[Integration tests in ASP.NET Core]
+  * link:https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/test-aspnet-core-services-web-apps[Testing ASP.NET Core services and web apps]
 |C♯ 07: REST and ASP.NET Core
 
 // Tuesday
@@ -131,14 +144,14 @@ a|* SE ch. 6
 .2+^.^|43
 |25/10/22
 |Helge
-a|* SE ch. 8
-* APPP ch. 2 - (5)
+a| * SE ch. 8
+   * APPP ch. 2 - (5)
 |SW Eng - Test-driven and behavior-driven development
 |
 // Friday
 |28/10/22
 |Rasmus
-|
+|cf. C♯ 07
 |C♯ 08: ASP.NET Core Web API part deux
 |
 
@@ -152,7 +165,9 @@ a|* SE ch. 8
 // Friday
 |4/11/22
 |Rasmus
-|link:https://learn.microsoft.com/en-us/aspnet/core/mvc/overview[Overview of ASP.NET Core MVC] link:https://learn.microsoft.com/en-us/aspnet/core/blazor/[ASP.NET Core Blazor] link:https://learn.microsoft.com/en-us/shows/beginners-series-to-blazor/[Beginner's Series to: Blazor]
+| * link:https://learn.microsoft.com/en-us/aspnet/core/mvc/overview[Overview of ASP.NET Core MVC]
+  * link:https://learn.microsoft.com/en-us/aspnet/core/blazor/[ASP.NET Core Blazor]
+  * link:https://learn.microsoft.com/en-us/shows/beginners-series-to-blazor/[Beginner's Series to: Blazor]
 |C♯ 09: Web applications with C♯
 
 // Tuesday
@@ -165,7 +180,9 @@ a|* SE ch. 8
 // Friday
 |11/11/22
 |Rasmus
-|link:https://learn.microsoft.com/en-us/dotnet/desktop/wpf[Windows Presentation Foundation documentation] link:https://learn.microsoft.com/en-us/dotnet/desktop/winforms/[Windows Forms documentation] link:https://learn.microsoft.com/en-us/dotnet/maui/[.NET Multi-platform App UI documentation]
+| * link:https://learn.microsoft.com/en-us/dotnet/desktop/wpf[Windows Presentation Foundation documentation]
+  * link:https://learn.microsoft.com/en-us/dotnet/desktop/winforms/[Windows Forms documentation]
+  * link:https://learn.microsoft.com/en-us/dotnet/maui/[.NET Multi-platform App UI documentation]
 |C♯ 10: Mobile and Desktop Applications with C♯
 |
 
@@ -179,7 +196,9 @@ a|* APPP ch. 30
 // Friday
 |18/11/22
 |Rasmus
-|link:https://learn.microsoft.com/en-us/aspnet/core/security/[ASP.NET Core security topics] link:https://learn.microsoft.com/en-us/aspnet/core/blazor/security/[ASP.NET Core Blazor authentication and authorization] link:https://learn.microsoft.com/en-us/azure/active-directory-b2c/[Azure Active Directory B2C documentation]
+| * link:https://learn.microsoft.com/en-us/aspnet/core/security/[ASP.NET Core security topics]
+  * link:https://learn.microsoft.com/en-us/aspnet/core/blazor/security/[ASP.NET Core Blazor authentication and authorization]
+  * link:https://learn.microsoft.com/en-us/azure/active-directory-b2c/[Azure Active Directory B2C documentation]
 |C♯ 11: Security
 |
 
