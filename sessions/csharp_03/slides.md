@@ -5,7 +5,7 @@ theme: default
 class: invert
 ---
 
-# Survey during the *academic quarter*:
+# Survey during the *academic quarter*
 
 ## <https://www.menti.com/> code: `5942 1139`
 
@@ -19,7 +19,7 @@ class: invert
 
 ---
 
-# C♯ 3 - Lambdas and LINQ
+# C♯ 03: Lambdas and LINQ
 
 ![bg right:50%](images/lambda.png)
 

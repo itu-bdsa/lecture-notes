@@ -5,7 +5,7 @@ theme: default
 class: invert
 ---
 
-# C♯ 5 - Dependency Injection and Testing Entity Framework Core
+# C♯ 05: Dependency Injection and Testing Entity Framework Core
 
 ![bg right:60%](https://samueleresca.net/content/images/wordpress/2017/02/How-To-Use-Dependency-Injection-in-ASP.NET-MVC-6.jpg)
 

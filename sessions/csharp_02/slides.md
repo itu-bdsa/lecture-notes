@@ -5,7 +5,7 @@ theme: default
 class: invert
 ---
 
-# C♯ 2 - Generics, Collections, Iterators, and Regular Expressions
+# C♯ 02: Generics, Collections, Iterators, and Regular Expressions
 
 ![bg right:50% contain](images/generic-cola.jpg)
 

@@ -17,7 +17,7 @@ class: invert
 
 <div class="container">
 
-# C♯ 1 - Test Driven C♯
+# C♯ 01: Test Driven C♯
 
 ![bg blur:1px](images/hello-world.png)
 

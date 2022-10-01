@@ -28,14 +28,14 @@ Lectures are on Tuesdays from 10:00 to 12:00 in Auditorium 0 (0A27) and on Frida
 |30/8/22
 |Helge
 a| * OFJ ch. 15
-   * link:sessions/swe_00/README.md/[Preparation Material]
-| link:sessions/swe_01/Slides.md/[Course Intro]
+   * link:sessions/swe_00/README.md[Preparation Material]
+| link:sessions/swe_01/Slides.md[Course Intro]
 .2+^.^| link:https://github.com/itu-bdsa/assignment-00/blob/main/README.md[Assignment 0]
 // Friday
 |2/9/22
 |Rasmus
 |CSN ch. 1 and 2
-|link:sessions/csharp_01/slides.md/[C# 01 - Test-Driven C#]
+|link:sessions/csharp_01/slides.md[C♯ 01: Test-Driven C♯]
 
 // Tuesday
 .2+^.^|36
@@ -44,54 +44,55 @@ a| * OFJ ch. 15
 a| * SE ch. 1
    * APPP Appendix B
    * link:https://codewords.recurse.com/issues/two/git-from-the-inside-out[Git from the inside out]
-|link:sessions/swe_02/Slides.md/[SW Eng - What is software? What is software engineering? What is software design? What is software architecture?]
+|link:sessions/swe_02/Slides.md[SW Eng - What is software? What is software engineering? What is software design? What is software architecture?]
 .2+^.^| link:https://github.com/itu-bdsa/assignment-01/blob/main/README.md[Assignment 1]
 // Friday
 |9/9/22
 |Rasmus
-|CSN ch. 3, 4, 7, 25
-|C# 02 - Generics, Collections, Iterators, and Regular Expressions
+|CSN ch. 3, 4, 7, 25 link:https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test[Unit testing C♯ in .NET Core using dotnet test and xUnit] link:https://learn.microsoft.com/en-us/dotnet/devops/github-actions-overview[GitHub Actions and .NET]
+|link:sessions/csharp_01/slides.md[C♯ 02: Generics, Collections, Iterators, and ]Regular Expressions
 
 // Tuesday
 .2+^.^|37
 |13/9/22
 |Helge
 |SE ch. 4
-|link:sessions/swe_03/Slides.md/[SW Eng - Requirements Engineering]
+|link:sessions/swe_03/Slides.md[SW Eng - Requirements Engineering]
 .2+^.^| link:https://github.com/itu-bdsa/assignment-02/blob/main/README.md[Assignment 2]
 // Friday
 |16/9/22
 |Rasmus
 |CSN ch. 4, 8, 9
-|C# 03 - Lambdas and LINQ
+|link:sessions/csharp_03/slides.md[C♯ 03: Lambdas and LINQ]
 
 // Tuesday
 .2+^.^|38
 |20/9/22
 |Rasmus
-|CSN ch. 8
-|C# 04 - Data Access and Entity Framework Core
+|CSN ch. 8 link:https://learn.microsoft.com/en-us/ef/core/[Entity Framework Core] link:https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app[Getting Started with EF Core]
+|link:sessions/csharp_04/slides.md[C♯ 04: Data Access and Entity Framework Core]
 .2+^.^| link:https://github.com/itu-bdsa/assignment-03/blob/main/README.md[Assignment 3]
 // Friday
 |23/9/22
 |Helge
 a|* SE ch. 5 p.138 - 158
   * APPP ch. 13 - 19
-|link:sessions/swe_04/Slides.md/[SW Eng - Introduction to UML]
+|link:sessions/swe_04/Slides.md[SW Eng - Introduction to UML]
 
 // Tuesday
 .2+^.^|39
 |27/9/22
 |Helge
 |APPP ch. 7 - 12
-|link:sessions/swe_05/Slides.md/[SW Eng - SOLID Principles]
+|link:sessions/swe_05/Slides.md[SW Eng - SOLID Principles]
 .2+^.^| link:https://github.com/itu-bdsa/assignment-04/blob/main/README.md[Assignment 4]
 // Friday
 |30/9/22
 |Rasmus
 a|* link:https://martinfowler.com/articles/injection.html[Inversion of Control Containers and the Dependency Injection pattern]
-  * link:https://docs.microsoft.com/en-us/ef/core/miscellaneous/testing/[Testing code that uses EF Core] 
-|C# 05 - Dependency Injection and Testing Entity Framework
+  * link:https://learn.microsoft.com/en-us/ef/core/testing/[Testing EF Core Applications
+]
+|link:sessions/csharp_05/Slides.md[C♯ 05: Dependency Injection and Testing Framework Core]
 
 // Tuesday
 .2+^.^|40
@@ -104,8 +105,8 @@ a|* SE ch. 6
 // Friday
 |7/10/22
 |Rasmus
-|CSN ch. 14, 22
-|C# 06 - Asynchronous and Parallel Programming
+|CSN ch. 14, 22 link:https://github.com/NotMyself/GildedRose/blob/master/README.md[Gilded Rose Refactoring Kata] link:https://martinfowler.com/articles/preparatory-refactoring-example.html[An example of preparatory refactoring]
+|C♯ 06: Asynchronous and Parallel Programming
 
 // Tuesday
 .2+^.^|41
@@ -117,8 +118,8 @@ a|* SE ch. 6
 // Friday
 |14/10/22
 |Rasmus
-|CSN ch. 16
-|C# 07 - REST and ASP.NET Core
+|CSN ch. 16 link:https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm[CHAPTER 5 - Representational State Transfer (REST)] link:https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api[Tutorial: Create a web API with ASP.NET Core] link:https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api[Tutorial: Create a web API with ASP.NET Core] link:https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/testing[Unit test controller logic in ASP.NET Core] link:https://learn.microsoft.com/en-us/aspnet/core/test/middleware[Test ASP.NET Core middleware] link:https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests[Integration tests in ASP.NET Core] link:https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/test-aspnet-core-services-web-apps[Testing ASP.NET Core services and web apps]
+|C♯ 07: REST and ASP.NET Core
 
 // Tuesday
 ^|42
@@ -138,7 +139,7 @@ a|* SE ch. 8
 |28/10/22
 |Rasmus
 |
-|C# 08 - ASP.NET Core Web API part deux
+|C♯ 08: ASP.NET Core Web API part deux
 |
 
 // Tuesday
@@ -151,8 +152,8 @@ a|* SE ch. 8
 // Friday
 |4/11/22
 |Rasmus
-|
-|C# 09 - Web applications with C#
+|link:https://learn.microsoft.com/en-us/aspnet/core/mvc/overview[Overview of ASP.NET Core MVC] link:https://learn.microsoft.com/en-us/aspnet/core/blazor/[ASP.NET Core Blazor] link:https://learn.microsoft.com/en-us/shows/beginners-series-to-blazor/[Beginner's Series to: Blazor]
+|C♯ 09: Web applications with C♯
 
 // Tuesday
 .2+^.^|45
@@ -164,8 +165,8 @@ a|* SE ch. 8
 // Friday
 |11/11/22
 |Rasmus
-|
-|C# 10 - Mobile and Desktop Applications with C#
+|link:https://learn.microsoft.com/en-us/dotnet/desktop/wpf[Windows Presentation Foundation documentation] link:https://learn.microsoft.com/en-us/dotnet/desktop/winforms/[Windows Forms documentation] link:https://learn.microsoft.com/en-us/dotnet/maui/[.NET Multi-platform App UI documentation]
+|C♯ 10: Mobile and Desktop Applications with C♯
 |
 
 // Tuesday
@@ -178,8 +179,8 @@ a|* APPP ch. 30
 // Friday
 |18/11/22
 |Rasmus
-|
-|C# 11 - Security
+|link:https://learn.microsoft.com/en-us/aspnet/core/security/[ASP.NET Core security topics] link:https://learn.microsoft.com/en-us/aspnet/core/blazor/security/[ASP.NET Core Blazor authentication and authorization] link:https://learn.microsoft.com/en-us/azure/active-directory-b2c/[Azure Active Directory B2C documentation]
+|C♯ 11: Security
 |
 
 // Tuesday
@@ -193,7 +194,7 @@ a|* APPP ch. 30
 |25/11/22
 |Rasmus
 |
-|C# 12 - this._course.Dispose();
+|C♯ 12: this._course.Dispose();
 |
 
 // Tuesday
@@ -269,8 +270,8 @@ You will have access to all written lecture material through this repository tho
 
   * OFJ: link:https://www.bluej.org/objects-first/[Objects First with Java: A Practical Introduction Using BlueJ (Sixth Edition)]
   * SE: link:https://www.polyteknisk.dk/home/Detaljer/9781292096131[Software Engineering (Tenth Edition, Global Edition)]
-  * APPP: link:https://www.polyteknisk.dk/home/Detaljer/9780131857254[Agile Principles, Patterns, and Practices in C#]
-  * CSN: link:https://www.oreilly.com/library/view/c-10-in/9781098121945/[C# 10 in a Nutshell]
+  * APPP: link:https://www.polyteknisk.dk/home/Detaljer/9780131857254[Agile Principles, Patterns, and Practices in C♯]
+  * CSN: link:https://www.oreilly.com/library/view/c-10-in/9781098121945/[C♯ 10 in a Nutshell]
 
 === Attributions
 
