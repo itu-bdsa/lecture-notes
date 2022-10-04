@@ -101,9 +101,9 @@ a| * link:https://martinfowler.com/articles/injection.html[Inversion of Control 
 .2+^.^|40
 |4/10/22
 |Helge
-a| * SE ch. 6
+a| * SE ch. 7
    * APPP ch. 21 - 25
-|SW Eng - Design patterns
+|link:sessions/swe_06/Slides.md[SW Eng - Design patterns]
 .2+^.^| link:https://github.com/itu-bdsa/assignment-05/blob/main/README.md[Assignment 5]
 // Friday
 |7/10/22
@@ -118,7 +118,7 @@ a| * link:sessions/csharp_06/slides.md[C♯ 06: Asynchronous and Parallel Progra
 .2+^.^|41
 |11/10/22
 |Helge
-|SE ch. 6
+|SE ch. 6, 17, 18
 |SW Eng - Architectural Patterns
 .2+^.^| Project grouping
 // Friday
