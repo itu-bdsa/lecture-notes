@@ -112,7 +112,7 @@ a| * CSN ch. 14, 22
    * link:https://github.com/NotMyself/GildedRose/blob/master/README.md[Gilded Rose Refactoring Kata]
    * link:https://martinfowler.com/articles/preparatory-refactoring-example.html[An example of preparatory refactoring]
 a| * link:sessions/csharp_06/slides.md[C♯ 06: Asynchronous and Parallel Programming]
-   * link:sessions/the_gilded_rose/slides.md[C♯ 06: Asynchronous and Parallel Programming]
+   * link:sessions/the_gilded_rose/slides.md[The Gilded Rose]
 
 // Tuesday
 .2+^.^|41

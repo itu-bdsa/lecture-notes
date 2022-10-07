@@ -25,10 +25,7 @@ ITU</p>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="3" data-class="invert" data-theme="default" class="invert" style="--class:invert;--theme:default;">
 <h1>Background</h1>
 <blockquote>
-<p>Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods.<br />
-Unfortunately, our goods are constantly degrading in <strong>Quality</strong> as they approach their sell by date.<br />
-We have a system in place that updates our inventory for us. It was developed by a no-nonsense type named Leeroy, who has moved on to new adventures.<br />
-Your task is to add the new feature to our system so that we can begin selling a new category of items. First an introduction to our system:</p>
+<p>Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods...</p>
 </blockquote>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="4" data-class="invert" data-theme="default" class="invert" style="--class:invert;--theme:default;">
@@ -39,14 +36,7 @@ Your task is to add the new feature to our system so that we can begin selling a
 <li>At the end of each day our system lowers both values for every item</li>
 </ul>
 <p>Pretty simple, right? Well this is where it gets interesting:</p>
-<ul>
-<li>Once the sell by date has passed, <strong>Quality</strong> degrades twice as fast</li>
-<li>The <strong>Quality</strong> of an item is never negative</li>
-<li>&quot;Aged Brie&quot; actually increases in <strong>Quality</strong> the older it gets</li>
-<li>The <strong>Quality</strong> of an item is never more than 50</li>
-<li>&quot;Sulfuras&quot;, being a legendary item, never has to be sold or decreases in Quality</li>
-<li>&quot;Backstage passes&quot;, like aged brie, increases in <strong>Quality</strong> as it's <strong>SellIn</strong> value approaches; <strong>Quality</strong> increases by 2 when there are 10 days or less and by 3 when there are 5 days or less but <strong>Quality</strong> drops to 0 after the concert</li>
-</ul>
+<p>...</p>
 <p>We have recently signed a supplier of conjured items. This requires an update to our system:</p>
 <ul>
 <li>&quot;<em>Conjured</em>&quot; items degrade in <strong>Quality</strong> twice as fast as normal items</li>
@@ -199,7 +189,9 @@ Your task is to add the new feature to our system so that we can begin selling a
 <h1>Code Coverage</h1>
 <p><a href="https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-code-coverage">Use code coverage for unit testing</a></p>
 <p><strong>TODO</strong>: Confirm works and prints code coverage</p>
-<p><code>dotnet test --collect:&quot;XPlat Code Coverage&quot;</code></p>
+<pre><code class="language-bash"><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>dotnet add package coverlet.msbuild
+dotnet <span class="hljs-built_in">test</span> /p:CollectCoverage=<span class="hljs-literal">true</span>
+</span></span></foreignObject></svg></code></pre>
 <pre><code class="language-txt"><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>+-----------------------+------+--------+--------+
 | Module                | Line | Branch | Method |
 +-----------------------+------+--------+--------+
@@ -208,11 +200,6 @@ Your task is to add the new feature to our system so that we can begin selling a
 </span></span></foreignObject></svg></code></pre>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="9" data-class="invert" data-theme="default" class="invert" style="--class:invert;--theme:default;">
-<h1>.NET Watcher</h1>
-<p>From the tests folder:</p>
-<p><code>dotnet watch test --collect:&quot;XPlat Code Coverage&quot;</code></p>
-</section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="10" data-class="invert" data-theme="default" class="invert" style="--class:invert;--theme:default;">
 <h1>Resources</h1>
 <p>Martin Fowler on Refactoring: <a href="https://martinfowler.com/articles/preparatory-refactoring-example.html">https://martinfowler.com/articles/preparatory-refactoring-example.html</a></p>
 <p>Sandy Metz on solving the Guilded Rose in Ruby: <a href="https://youtu.be/8bZh5LMaSmE">https://youtu.be/8bZh5LMaSmE</a></p>

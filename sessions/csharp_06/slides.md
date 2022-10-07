@@ -15,6 +15,25 @@ ITU
 
 ---
 
+![bg](https://www.macmillandictionaryblog.com/wp-content/uploads/2018/01/dictionary-1024x575.jpg)
+
+# Dictionary
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
 # Async ≠ Parallel ≠ Threads
 
 ---
@@ -71,8 +90,8 @@ ITU
 # Multithreading
 
 > Software implementation which allows different threads to be executed concurrently.
-A multithreaded program appears to be doing several things at the same time even when it’s running on a single-core machine.
-Compare to chatting with different people through various IM windows; although you’re switching back and forth, the net result is that you’re having multiple conversations at the same time.
+> A multithreaded program appears to be doing several things at the same time even when it's running on a single-core machine.
+> Compare to chatting with different people through various IM windows; although you're switching back and forth, the net result is that you're having multiple conversations at the same time.
 
 ---
 
@@ -100,7 +119,7 @@ Compare to chatting with different people through various IM windows; although y
 # Asynchronous methods
 
 > Asynchrony is used to present the impression of concurrent or parallel tasking.
-Normally used for a process that needs to do work away from the current application where we don't want to wait and block our application awaiting the response.
+> Normally used for a process that needs to do work away from the current application where we don't want to wait and block our application awaiting the response.
 
 ---
 
