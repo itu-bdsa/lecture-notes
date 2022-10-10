@@ -119,7 +119,7 @@ a| * link:sessions/csharp_06/slides.md[C♯ 06: Asynchronous and Parallel Progra
 |11/10/22
 |Helge
 |SE ch. 6, 17, 18
-|SW Eng - Architectural Patterns
+|SW Eng - Architecture, Notations, and Architectural Patterns
 .2+^.^| Project grouping
 // Friday
 |14/10/22
