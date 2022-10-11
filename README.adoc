@@ -126,7 +126,8 @@ a| * link:sessions/csharp_06/slides.md[C♯ 06: Asynchronous and Parallel Progra
 |Rasmus
 a| * CSN ch. 16
    * link:https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm[CHAPTER 5 - Representational State Transfer (REST)]
-   * link:https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api[Tutorial: Create a web API with ASP.NET Core]
+   * link:https://learn.microsoft.com/en-us/aspnet/core/[ASP.NET Documentation]
+   * link:https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api[Tutorial: Create a minimal web API with ASP.NET Core]
    * link:https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api[Tutorial: Create a web API with ASP.NET Core]
    * link:https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/testing[Unit test controller logic in ASP.NET Core]
    * link:https://learn.microsoft.com/en-us/aspnet/core/test/middleware[Test ASP.NET Core middleware]
