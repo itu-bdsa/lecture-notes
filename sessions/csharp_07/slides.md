@@ -15,6 +15,12 @@ ITU
 
 ---
 
+# The Gilded Rose
+
+Recap
+
+---
+
 # Parallel LINQ
 
 Carry-over from last week
