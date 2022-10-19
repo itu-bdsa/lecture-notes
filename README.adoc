@@ -143,9 +143,8 @@ a| * CSN ch. 16
 .2+^.^|43
 |25/10/22
 |Helge
-a| * SE ch. 8
-   * APPP ch. 2 - (5)
-|SW Eng - Test-driven and behavior-driven development
+|Remaining on Design Patterns: APPP ch. 29, 31-35
+|SW Eng - Building Software
 |
 // Friday
 |28/10/22
@@ -158,8 +157,9 @@ a| * SE ch. 8
 .2+^.^|44
 |1/11/22
 |Helge
-|
-|SW Eng - Building Software
+a| * SE ch. 8
+   * APPP ch. 2 - (5)
+|SW Eng - Test-driven and behavior-driven development
 .2+^.^| Trial Exam
 // Friday
 |4/11/22
