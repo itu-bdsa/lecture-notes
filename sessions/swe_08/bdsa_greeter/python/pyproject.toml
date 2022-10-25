@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "bdsa_greeter"
+version = "0.1.0"
+description = "Demo CLI application printing a greeting"
+authors = ["HelgeCPH <ropf@itu.dk>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+black = "^22.10.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+hello = "bdsa_greeter.cli:main"
