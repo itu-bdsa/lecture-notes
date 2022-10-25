@@ -150,7 +150,7 @@ a| * CSN ch. 16
 |28/10/22
 |Rasmus
 |cf. C♯ 07
-|C♯ 08: ASP.NET Core Web API part deux
+|C♯ 08: JSON and the REST part deux
 |
 
 // Tuesday
@@ -194,9 +194,11 @@ a|* APPP ch. 30
 |
 // Friday
 |18/11/22
-|
-| _No lecture_
-|
+|Rasmus
+a| * link:https://learn.microsoft.com/en-us/aspnet/core/security/[ASP.NET Core security topics]
+   * link:https://learn.microsoft.com/en-us/aspnet/core/blazor/security/[ASP.NET Core Blazor authentication and authorization]
+   * link:https://learn.microsoft.com/en-us/azure/active-directory-b2c/[Azure Active Directory B2C documentation]
+|C♯ 11: Security
 |
 
 // Tuesday
@@ -209,10 +211,7 @@ a|* APPP ch. 30
 // Friday
 |25/11/22
 |Rasmus
-a| * link:https://learn.microsoft.com/en-us/aspnet/core/security/[ASP.NET Core security topics]
-   * link:https://learn.microsoft.com/en-us/aspnet/core/blazor/security/[ASP.NET Core Blazor authentication and authorization]
-   * link:https://learn.microsoft.com/en-us/azure/active-directory-b2c/[Azure Active Directory B2C documentation]
-|C♯ 11: Security
+|C♯ 12: this._course.Dispose();
 |
 
 // Tuesday
@@ -226,7 +225,7 @@ a| * link:https://learn.microsoft.com/en-us/aspnet/core/security/[ASP.NET Core s
 |2/12/22
 |Rasmus
 |
-|C♯ 12: this._course.Dispose();
+|
 |
 
 // Tuesday
