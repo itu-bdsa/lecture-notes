@@ -5,6 +5,15 @@ image:https://github.com/itu-bdsa/lecture-notes/blob/main/images/banner.png?raw=
 
 == Analysis, Design and Software Architecture
 
+=== Announcement
+
+As Rasmus mentioned in class, this year's link:https://www.dotnetconf.net/[.NET Conf 2022] takes place online and you can join for free!
+
+[link=https://www.dotnetconf.net/]
+image::https://www.dotnetconf.net/img/hero-illustration-drone.gif[width=40%]
+[link=https://www.dotnetconf.net/]
+image::https://www.dotnetconf.net/img/hero-illustration-bot.svg[]
+
 
 === Content
 
