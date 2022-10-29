@@ -177,7 +177,7 @@ a| * SE ch. 8
 a| * link:https://learn.microsoft.com/en-us/aspnet/core/mvc/overview[Overview of ASP.NET Core MVC]
    * link:https://learn.microsoft.com/en-us/aspnet/core/blazor/[ASP.NET Core Blazor]
    * link:https://learn.microsoft.com/en-us/shows/beginners-series-to-blazor/[Beginner's Series to: Blazor]
-|C♯ 09: Web applications with C♯
+|C♯ 09: .NET Web Applications
 
 // Tuesday
 .2+^.^|45
@@ -192,7 +192,7 @@ a| * link:https://learn.microsoft.com/en-us/aspnet/core/mvc/overview[Overview of
 a| * link:https://learn.microsoft.com/en-us/dotnet/desktop/wpf[Windows Presentation Foundation documentation]
    * link:https://learn.microsoft.com/en-us/dotnet/desktop/winforms/[Windows Forms documentation]
    * link:https://learn.microsoft.com/en-us/dotnet/maui/[.NET Multi-platform App UI documentation]
-|C♯ 10: Mobile and Desktop Applications with C♯
+|C♯ 10: .NET Mobile and Desktop Applications
 |
 
 // Tuesday
