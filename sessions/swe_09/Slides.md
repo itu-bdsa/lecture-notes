@@ -9,7 +9,7 @@ class: center, middle
 Helge Pfeiffer, Assistant Professor,<br>
 [Research Center for Government IT](https://www.itu.dk/forskning/institutter/institut-for-datalogi/forskningscenter-for-offentlig-it),<br> 
 [IT University of Copenhagen, Denmark](https://www.itu.dk)<br>
-`me@itu.dk`
+`ropf@itu.dk`
 
 ---
 
@@ -201,7 +201,7 @@ You will add a persistence feature to your applications: <https://github.com/itu
 
 ### Trial Exam
 
-For this week, I publish a simulation of the exam [here](BDSA21-22-Simulation.pdf).
+For this week, I publish a simulation of the exam [here](/home/ropf/Documents/Lectures/itu-bdsa-lecture-notes-intern/sessions/swe_09/BDSA21-22-Simulation.pdf).
 It simulates ca. 40% of a real exam.
 That is, use the exercise sessions of either today or tomorrow, to simulate conducting the exam for you.
 
@@ -1108,4 +1108,4 @@ namespace ExampleTest
   * Go to the exercise session.
   * Register your project groups and project repositories if not done yet, see <https://github.com/itu-bdsa/project-description#week-zero-week-44>
   * Work on the project, see <https://github.com/itu-bdsa/project-description>
-  * Either today or tomorrow during the exercises, work on the [Trial Exam](BDSA21-22-Simulation.pdf)
+  * Either today or tomorrow during the exercises, work on the [Trial Exam](/home/ropf/Documents/Lectures/itu-bdsa-lecture-notes-intern/sessions/swe_09/BDSA21-22-Simulation.pdf)
