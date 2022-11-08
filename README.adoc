@@ -199,8 +199,8 @@ a| * link:https://learn.microsoft.com/en-us/dotnet/desktop/wpf[Windows Presentat
 .2+^.^|46
 |15/11/22
 |Helge
-a|* APPP ch. 30
-|SW Eng - Package and Component Design
+|---
+|---
 |
 // Friday
 |18/11/22
@@ -215,21 +215,22 @@ a| * link:https://learn.microsoft.com/en-us/aspnet/core/security/[ASP.NET Core s
 .2+^.^|47
 |22/11/22
 |Helge
-|SE ch. 2 - 3
-|SW Eng - Software process models
+a|* APPP ch. 30
+|SW Eng - Package and Component Design
 |
 // Friday
 |25/11/22
 |Rasmus
 |C♯ 12: this._course.Dispose();
 |
+|
 
 // Tuesday
 .2+^.^|48
 |29/11/22
 |Helge
-|
-|
+|SE ch. 2 - 3
+|SW Eng - Software process models
 |
 // Friday
 |2/12/22
