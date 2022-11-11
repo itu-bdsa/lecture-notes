@@ -120,7 +120,7 @@ a| * link:sessions/csharp_06/slides.md[C♯ 06: Asynchronous and Parallel Progra
 |11/10/22
 |Helge
 |SE ch. 6, 17, 18
-|SW Eng - Architecture, Notations, and Architectural Patterns
+|link:sessions/swe_07/Slides.md[SW Eng - Architecture, Notations, and Architectural Patterns]
 .2+^.^| Project grouping
 // Friday
 |14/10/22
@@ -145,7 +145,7 @@ a| * CSN ch. 16
 |25/10/22
 |Helge
 |Remaining on Design Patterns: APPP ch. 29, 31-35
-|SW Eng - Building Software
+|link:sessions/swe_08/Slides.md[SW Eng - Building Software]
 .2+^.^| link:https://github.com/itu-bdsa/project-description#week-one-week-43[Project Work]
 // Friday
 |28/10/22
@@ -159,7 +159,7 @@ a| * CSN ch. 16
 |Helge
 a| * SE ch. 8
    * APPP ch. 2 - (5)
-|SW Eng - Test-driven and behavior-driven development
+|link:sessions/swe_09/Slides.md[SW Eng - Test-driven and behavior-driven development]
 .2+^.^a| * Trial Exam
          * link:https://github.com/itu-bdsa/project-description#week-one-week-44[Project Work]
 // Friday
@@ -175,7 +175,7 @@ a| * link:https://learn.microsoft.com/en-us/aspnet/core/mvc/overview[Overview of
 |8/11/22
 |Helge
 |SE ch. 24
-|SW Eng - Software Quality
+|link:sessions/swe_10/Slides.md[SW Eng - Software Quality]
 .2+^.^| link:https://github.com/itu-bdsa/project-description#week-one-week-45[Project Work]
 // Friday
 |11/11/22
