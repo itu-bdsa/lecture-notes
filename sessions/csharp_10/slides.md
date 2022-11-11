@@ -78,13 +78,27 @@ dotnet list package --outdated
 
 ---
 
-# C♯ 11 / .NET 7.0
+# C♯ 11
 
 ## New features
 
-- ...
-- ...
-- ...
+- [UTF-8 string literals](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-11#utf-8-string-literals)
+- [Required members](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-11#required-members)
+- Other stuff: [What's new in C♯ 11](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-11)
+
+Check out what's new in C♯ 8.0, 9.0, and 10.0 also.
+
+---
+
+# .NET 7
+
+## New features
+
+- [What's new in .NET 7](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-7)
+- [What's new in ASP.NET Core 7.0](https://learn.microsoft.com/en-us/ef/core/what-is-new/ef-core-7.0/whatsnew)
+- [What's New in EF Core 7.0](https://learn.microsoft.com/en-us/ef/core/what-is-new/ef-core-7.0/whatsnew)
+
+Check out what's new in C♯ 5.0 and 6.0.
 
 ---
 
