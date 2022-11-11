@@ -5,15 +5,6 @@ image:https://github.com/itu-bdsa/lecture-notes/blob/main/images/banner.png?raw=
 
 == Analysis, Design and Software Architecture
 
-=== Announcement
-
-As Rasmus mentioned in class, this year's link:https://www.dotnetconf.net/[.NET Conf 2022] takes place online and you can join for free!
-
-[link=https://www.dotnetconf.net/]
-image::https://www.dotnetconf.net/img/hero-illustration-drone.gif[width=40%]
-[link=https://www.dotnetconf.net/]
-image::https://www.dotnetconf.net/img/hero-illustration-bot.svg[]
-
 
 === Content
 
@@ -155,13 +146,12 @@ a| * CSN ch. 16
 |Helge
 |Remaining on Design Patterns: APPP ch. 29, 31-35
 |SW Eng - Building Software
-|
+.2+^.^| link:https://github.com/itu-bdsa/project-description#week-one-week-43[Project Work]
 // Friday
 |28/10/22
 |Rasmus
 |cf. C♯ 07
 |C♯ 08: JSON and the REST part deux
-|
 
 // Tuesday
 .2+^.^|44
@@ -170,7 +160,8 @@ a| * CSN ch. 16
 a| * SE ch. 8
    * APPP ch. 2 - (5)
 |SW Eng - Test-driven and behavior-driven development
-.2+^.^| Trial Exam
+.2+^.^a| * Trial Exam
+         * link:https://github.com/itu-bdsa/project-description#week-one-week-44[Project Work]
 // Friday
 |4/11/22
 |Rasmus
@@ -185,7 +176,7 @@ a| * link:https://learn.microsoft.com/en-us/aspnet/core/mvc/overview[Overview of
 |Helge
 |SE ch. 24
 |SW Eng - Software Quality
-|
+.2+^.^| link:https://github.com/itu-bdsa/project-description#week-one-week-45[Project Work]
 // Friday
 |11/11/22
 |Rasmus
@@ -193,7 +184,7 @@ a| * link:https://learn.microsoft.com/en-us/dotnet/desktop/wpf[Windows Presentat
    * link:https://learn.microsoft.com/en-us/dotnet/desktop/winforms/[Windows Forms documentation]
    * link:https://learn.microsoft.com/en-us/dotnet/maui/[.NET Multi-platform App UI documentation]
 |C♯ 10: .NET Mobile and Desktop Applications
-|
+
 
 // Tuesday
 .2+^.^|46
@@ -201,13 +192,13 @@ a| * link:https://learn.microsoft.com/en-us/dotnet/desktop/wpf[Windows Presentat
 |Helge
 |---
 |---
-|
+.2+^.^| link:https://github.com/itu-bdsa/project-description#week-one-week-46[Project Work]
 // Friday
 |18/11/22
 |Rasmus
 |---
 |---
-|
+
 
 // Tuesday
 .2+^.^|47
@@ -215,7 +206,7 @@ a| * link:https://learn.microsoft.com/en-us/dotnet/desktop/wpf[Windows Presentat
 |Helge
 a|* APPP ch. 30
 |SW Eng - Package and Component Design
-|
+.2+^.^| link:https://github.com/itu-bdsa/project-description#week-one-week-47[Project Work]
 // Friday
 |25/11/22
 |Rasmus
@@ -223,8 +214,6 @@ a| * link:https://learn.microsoft.com/en-us/aspnet/core/security/[ASP.NET Core s
    * link:https://learn.microsoft.com/en-us/aspnet/core/blazor/security/[ASP.NET Core Blazor authentication and authorization]
    * link:https://learn.microsoft.com/en-us/azure/active-directory-b2c/[Azure Active Directory B2C documentation]
 |C♯ 11: Security
-|
-|
 
 // Tuesday
 .2+^.^|48
@@ -232,12 +221,11 @@ a| * link:https://learn.microsoft.com/en-us/aspnet/core/security/[ASP.NET Core s
 |Helge
 |SE ch. 2 - 3
 |SW Eng - Software process models
-|
+.2+^.^| link:https://github.com/itu-bdsa/project-description#week-one-week-48[Project Work]
 // Friday
 |2/12/22
 |Rasmus
 |C♯ 12: this._course.Dispose();
-|
 |
 
 // Tuesday
