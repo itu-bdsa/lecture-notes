@@ -15,6 +15,14 @@ ITU
 
 ---
 
+# Info
+
+## No lectures next week
+
+Use the extra time to catch up with your project and work on the new requirements
+
+---
+
 <!-- _class: default -->
 
 ![height:300px](images/ali-farahnak.jpg)
