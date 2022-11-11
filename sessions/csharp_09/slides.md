@@ -32,6 +32,12 @@ November 8–10
 
 ---
 
+# Server-side vs. client-side rendering
+
+TODO
+
+---
+
 ![bg](images/webapps.jpg)
 
 <br>
