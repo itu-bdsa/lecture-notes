@@ -204,7 +204,7 @@ a| * link:https://learn.microsoft.com/en-us/dotnet/desktop/wpf[Windows Presentat
 .2+^.^|47
 |22/11/22
 |Helge
-a|* APPP ch. 30
+a|* APPP ch. 28 & 30
 |SW Eng - Package and Component Design
 .2+^.^| link:https://github.com/itu-bdsa/project-description#week-one-week-47[Project Work]
 // Friday
