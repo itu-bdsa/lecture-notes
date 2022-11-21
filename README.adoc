@@ -203,17 +203,17 @@ a| * link:https://learn.microsoft.com/en-us/dotnet/desktop/wpf[Windows Presentat
 // Tuesday
 .2+^.^|47
 |22/11/22
-|Helge
-a|* APPP ch. 28 & 30
-|SW Eng - Package and Component Design
-.2+^.^| link:https://github.com/itu-bdsa/project-description#week-one-week-47[Project Work]
-// Friday
-|25/11/22
 |Rasmus
 a| * link:https://learn.microsoft.com/en-us/aspnet/core/security/[ASP.NET Core security topics]
    * link:https://learn.microsoft.com/en-us/aspnet/core/blazor/security/[ASP.NET Core Blazor authentication and authorization]
    * link:https://learn.microsoft.com/en-us/azure/active-directory-b2c/[Azure Active Directory B2C documentation]
 |C♯ 11: Security
+.2+^.^| link:https://github.com/itu-bdsa/project-description#week-one-week-47[Project Work]
+// Friday
+|25/11/22
+|Helge
+a|* APPP ch. 28 & 30
+|SW Eng - Package and Component Design
 
 // Tuesday
 .2+^.^|48
