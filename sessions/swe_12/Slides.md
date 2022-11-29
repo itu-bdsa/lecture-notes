@@ -27,7 +27,7 @@ Please do that now: http://207.154.215.89:8888/
 
 ### Next week: Q&A session
 
-Please write your questions in the respective channel on Discord.
+Please write your questions in the [respective channel on Discord](https://discord.com/channels/1009838858663362640/1047092216029515796).
 
 If you like a question of another person and would like to have that addressed too, then just give it a thumbs-up there.
 
