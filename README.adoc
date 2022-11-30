@@ -225,7 +225,7 @@ a|* APPP ch. 28 & 30
 // Friday
 |2/12/22
 |Rasmus
-|C♯ 12: this._course.Dispose();
+|C♯ 12: await this._course.DisposeAsync();
 |
 
 // Tuesday
