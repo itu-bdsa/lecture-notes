@@ -7,7 +7,9 @@ class: invert
 
 ![bg right contain https://www.flickr.com/photos/emry/2132309066/](https://live.staticflickr.com/2242/2132309066_aa9ab242fd_k.jpg)
 
-# C♯ 12: `await this._course.DisposeAsync()`
+# C♯ 12:
+
+`await this._course.DisposeAsync()`
 
 Rasmus Lystrøm
 Associate Professor
