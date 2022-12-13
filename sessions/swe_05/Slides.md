@@ -7,7 +7,7 @@ class: center, middle
 ## Software Engineering Session 5
 
 Helge Pfeiffer, Assistant Professor,<br>
-[Research Center for Government IT](https://www.itu.dk/forskning/institutter/institut-for-datalogi/forskningscenter-for-offentlig-it),<br> 
+[Research Center for Government IT](https://www.itu.dk/forskning/institutter/institut-for-datalogi/forskningscenter-for-offentlig-it),<br>
 [IT University of Copenhagen, Denmark](https://www.itu.dk)<br>
 `ropf@itu.dk`
 
@@ -23,7 +23,7 @@ class: center, middle
 
 **Conformance to requirements!**
 
-  > The PDF file must conform to the following **naming convention: `group_<x>_<id1>_<id2>_<id3>_assignment_02.pdf`**, where `<x>` is replaced by the number of your group from [README_GROUPS.md](./README_GROUPS.md) and `<id1>`, `<id2>`, and `<id3>` are your respective ITU identifiers. 
+  > The PDF file must conform to the following **naming convention: `group_<x>_<id1>_<id2>_<id3>_assignment_02.pdf`**, where `<x>` is replaced by the number of your group from [README_GROUPS.md](./README_GROUPS.md) and `<id1>`, `<id2>`, and `<id3>` are your respective ITU identifiers.
   >
   > <https://github.com/itu-bdsa/assignment-02/#submitting-the-assignment>
 
@@ -40,7 +40,7 @@ Which of the following PDF files conforms to the file name requirement above?
 **Conformance to requirements!**
 
   > The PDF file must conform to the following **naming convention: `group_<x>_<id1>_<id2>_<id3>_assignment_02.pdf`**, where `<x>` is replaced by the number of your group from [README_GROUPS.md](./README_GROUPS.md) and `<id1>`, `<id2>`, and `<id3>` are your respective ITU identifiers.
-  > 
+  >
   > <https://github.com/itu-bdsa/assignment-02/#submitting-the-assignment>
 
 Which of the following PDF files conforms to the file name requirement above?
@@ -138,7 +138,7 @@ Professional software development (or enterprise software development) in the mi
 
   * Building large object-oriented monoliths,
   * with statically typed object-oriented languages,
-  * with slow compilers, 
+  * with slow compilers,
   * limited IDE support,
   * slow deployment cycles, and
   * slow feedback cycles.
@@ -196,7 +196,7 @@ They always depend on the kind of the next task (change) that is applied.
 ### SOLID Design Principles &mdash; Goals
 
   > object-oriented design principles that **help developers eliminate the symptoms of poor design**—design smells—and **build the best designs for the current set of features**.
-  
+
 --
 
 --------
@@ -211,12 +211,12 @@ They always depend on the kind of the next task (change) that is applied.
 
   > software has a good structure that is **flexible**, **maintainable**, and **reusable**
 
-<!-- 
+<!--
   > Once the inflexibility was exposed, [...] the agile developers knew what to do because they followed these steps.
   > 1. They detected the problem by following agile practices.
   > 2. They diagnosed the problem by applying design principles.
   > 3. They solved the problem by applying an appropriate design pattern.
-  > 
+  >
   > The interplay between these three aspects of software development _is_ the **act of design**.
  -->
 
@@ -249,7 +249,7 @@ Is it possible at all?
 <img src="https://images.squarespace-cdn.com/content/v1/534d554ae4b0fc2f52c99685/74a76f0a-0743-45a4-a7cb-908acacc933a/BodilKochsGardens_Plan_1-100.jpg" width="70%">
 
 
-<tiny> 
+<tiny>
 Source: <a href="http://urbanlabnordic.com/frederiksberglommepark">Urbanlab nordic: Frederiksberg Lommepark</a>.
 </tiny>
 
@@ -290,7 +290,7 @@ You know it from earlier _Cohesion_
 --
 
   > If, on the other hand, the application is not changing in ways that cause the two responsibilities to change at different times, there is no need to separate them. Indeed, separating them would smell of needless complexity. [...]
-  > 
+  >
   > **An axis of change is an axis of change only if the changes occur.**
   >
   > Robert C. Martin et al. _"Agile Principles, Patterns, and Practices in C#"_
@@ -309,7 +309,7 @@ Depending on the use case of the code, it is likely that it is mixing responsibi
   >
   > [JetBrains: What to look for in a Code Review: SOLID Principles](https://blog.jetbrains.com/upsource/2015/08/31/what-to-look-for-in-a-code-review-solid-principles-2/)
 
-<tiny> 
+<tiny>
 Source: <a href="https://blog.jetbrains.com/upsource/2015/08/31/what-to-look-for-in-a-code-review-solid-principles-2/">JetBrains: What to look for in a Code Review: SOLID Principles</a>.
 </tiny>
 
@@ -361,7 +361,7 @@ For example, what about the methods:
 
 -------------
 
-  > "You should be able to extend the behavior of a system without having to modify that system." 
+  > "You should be able to extend the behavior of a system without having to modify that system."
   >
   > [J. Ellis-Jones. Why the Open Closed Principle is the one you need to know but don’t.](https://hackernoon.com/why-the-open-closed-principle-is-the-one-you-need-to-know-but-dont-176f7e4416d)
 
@@ -435,7 +435,7 @@ What is the issue of the following code with respect to OCP?
 
 <img src="images/upsource-CR5-OCP-remove-if1.png" width="100%">
 
-<tiny> 
+<tiny>
 Source: <a href="https://blog.jetbrains.com/upsource/2015/08/31/what-to-look-for-in-a-code-review-solid-principles-2/">JetBrains: What to look for in a Code Review: SOLID Principles</a>.
 </tiny>
 
@@ -447,7 +447,7 @@ What is the issue of the following code with respect to OCP?
 
 <img src="https://blog.jetbrains.com/wp-content/uploads/2015/08/upsource-CR5-OCP-remove-if.png" width="100%">
 
-<tiny> 
+<tiny>
 Source: <a href="https://blog.jetbrains.com/upsource/2015/08/31/what-to-look-for-in-a-code-review-solid-principles-2/">JetBrains: What to look for in a Code Review: SOLID Principles</a>.
 </tiny>
 
@@ -459,7 +459,7 @@ What is the issue of the following code with respect to OCP?
 
 <img src="https://blog.jetbrains.com/wp-content/uploads/2015/08/upsource-CR5-OCP3.png" width="100%">
 
-<tiny> 
+<tiny>
 Source: <a href="https://blog.jetbrains.com/upsource/2015/08/31/what-to-look-for-in-a-code-review-solid-principles-2/">JetBrains: What to look for in a Code Review: SOLID Principles</a>.
 </tiny>
 
@@ -492,7 +492,7 @@ Can one design software to always adhere to the open/closed principle?
 ### OCP: Recommendation
 
   > apply abstraction only to those parts of the program that exhibit frequent change. _Resisting premature abstraction is as important as abstraction itself._
-  > 
+  >
   > Robert C. Martin et al. _"Agile Principles, Patterns, and Practices in C#"_
 
 
@@ -508,9 +508,9 @@ Can one design software to always adhere to the open/closed principle?
 
 ### LSP: Quiz
 
-What is the issue with the following software with respect to the Liskov Separation Principle?
+What is the issue with the following software with respect to the Liskov Substitution Principle?
 
-<img src="images/lsp_uml_diag.png" width="80%"> 
+<img src="images/lsp_uml_diag.png" width="80%">
 
 --
 
@@ -545,7 +545,7 @@ What is the issue with the following software with respect to the Liskov Separat
 <img src="https://blog.jetbrains.com/wp-content/uploads/2015/08/upsource-CR5-LSP2.png"  width="60%">
 
 
-<tiny> 
+<tiny>
 Source: <a href="https://blog.jetbrains.com/upsource/2015/08/31/what-to-look-for-in-a-code-review-solid-principles-2/">JetBrains: What to look for in a Code Review: SOLID Principles</a>.
 </tiny>
 
@@ -579,7 +579,7 @@ feature
             -- through key.
         require
             count <= capacity
-            not key.empty 
+            not key.empty
         ensure
             has (x)
             item (key) = x
@@ -594,11 +594,11 @@ invariant
 end
 ```
 
-<tiny> 
+<tiny>
 Source: <a href="https://www.eiffel.com/values/design-by-contract/introduction/
 ">Building bug-free O-O software: An Introduction to Design by Contract™</a>.
 </tiny>
-  
+
   * Via assertions on method entry/exit
   * Via unit tests
 
@@ -609,7 +609,7 @@ Source: <a href="https://www.eiffel.com/values/design-by-contract/introduction/
 
 
   > A. High-level modules should not depend on low-level modules. Both should depend on abstractions.
-  > 
+  >
   > B. Abstractions should not depend upon details. Details should depend upon abstractions.
   >
   > Robert C. Martin et al. _"Agile Principles, Patterns, and Practices in C#"_
@@ -630,7 +630,7 @@ What is the problem of the following code with respect to the dependency inversi
 
 <img src="https://blog.jetbrains.com/wp-content/uploads/2015/08/upsource-CR5-DIP1.png" width="90%">
 
-<tiny> 
+<tiny>
 Source: <a href="https://blog.jetbrains.com/upsource/2015/08/31/what-to-look-for-in-a-code-review-solid-principles-2/">JetBrains: What to look for in a Code Review: SOLID Principles</a>.
 </tiny>
 
@@ -724,7 +724,7 @@ class: center, middle
 
 ---
 
-### SOLID (LSP) in the wild 
+### SOLID (LSP) in the wild
 
 Out of [205 issues on GitHub that contain the terms `Liskov substitution`](https://github.com/search?l=C%23&q=Liskov+substitution+language%3AC%23+language%3AC%23&type=Issues), the majority seems to be in educational repositories.
 However, some examples of issues discussing or fixing LSP are:
@@ -799,10 +799,10 @@ Other people have other opinions on software design principles:
 ### KISS, YAGNI, CUPID, ...
 
   * _Keep It Simple Stupid_ (KISS) or _Keep It Small And Simple_
-    > The principle is best exemplified by the story of Johnson handing a team of design engineers a handful of tools, with the challenge that the jet aircraft they were designing must be repairable by an average mechanic in the field under combat conditions with only these tools. Hence, the "stupid" refers to the relationship between the way things break and the sophistication available to repair them. 
+    > The principle is best exemplified by the story of Johnson handing a team of design engineers a handful of tools, with the challenge that the jet aircraft they were designing must be repairable by an average mechanic in the field under combat conditions with only these tools. Hence, the "stupid" refers to the relationship between the way things break and the sophistication available to repair them.
     >
     > <https://en.wikipedia.org/wiki/KISS_principle>
- 
+
 --
 
   * _You Aren't Gonna Need It_ (YAGNI)
@@ -819,7 +819,7 @@ Other people have other opinions on software design principles:
     > * **Predictable**: does what you expect
     > * **Idiomatic**: feels natural
     > * **Domain-based**: the solution domain models the problem domain in language and structure
-    > 
+    >
     > [Dan North _"CUPID—for joyful coding"_](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)
 
 <!-- CUPID
@@ -839,13 +839,13 @@ https://dannorth.net/2021/03/16/cupid-the-back-story/
 For example, [_NDepend_](https://www.ndepend.com/) is a code quality assessment tool.
 In a blog post, the company behind the tool explains how to [_"Use NDepend to Measure How SOLID Your Code Is"_](https://blog.ndepend.com/solid-code/) via the following static analysis rules:
 
-  * [Avoid Types Too Big](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1000#!) (**SRP**) 
-  * [Avoid Types With Too Many Methods](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1001#!) (**SRP**) 
-  * [Avoid Types With Too Many Fields](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1002#!) (**SRP**) 
-  * [Avoid Methods That Are Too Big and Too Complex](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1003#!) (**SRP**) 
-  * [Avoid Methods With Too Many Parameters](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1004#!) (**SRP**) 
-  * [Avoid Methods With Too Many Local Variables](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1008#!) (**SRP**) 
-  * [Base class should not use derivatives](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1201#!) (**OCP**) 
+  * [Avoid Types Too Big](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1000#!) (**SRP**)
+  * [Avoid Types With Too Many Methods](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1001#!) (**SRP**)
+  * [Avoid Types With Too Many Fields](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1002#!) (**SRP**)
+  * [Avoid Methods That Are Too Big and Too Complex](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1003#!) (**SRP**)
+  * [Avoid Methods With Too Many Parameters](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1004#!) (**SRP**)
+  * [Avoid Methods With Too Many Local Variables](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1008#!) (**SRP**)
+  * [Base class should not use derivatives](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1201#!) (**OCP**)
   * [Do implement methods that throw NotImplementedException](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1312#!) (**LSP**)
   * [Avoid interfaces too big](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1200#!) (**ISP**)
   * [Higher cohesion - lower coupling](https://www.ndepend.com/default-rules/NDepend-Rules-Explorer.html?ruleid=ND1408#!) (**DIP**)
@@ -855,7 +855,7 @@ In a blog post, the company behind the tool explains how to [_"Use NDepend to Me
 
 Not at all, they focus on other (similar) design principles.
 For example, [_BetterCodeHub_](https://www.bettercodehub.com/)/[_Sigrid_](https://www.softwareimprovementgroup.com/solutions/sigrid-software-assurance-platform/) assess the following ten guidelines via static analysis rules, see [J. Visser et al._Building Maintainable Software, C# Edition: Ten Guidelines for Future-Proof Code_](https://www.labunix.uqam.ca/~tremblay_gu/MGL7460/Liens/Building_Maintainable_Software_SIG.pdf):
-  
+
   1. Write Short Units of Code
   1. Write Simple Units of Code
   1. Write Code Once
